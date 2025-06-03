@@ -6,6 +6,7 @@ brew install eza
 brew install zoxide
 
 brew install git
+brew install git-delta
 
 brew install fzf
 
@@ -21,7 +22,12 @@ brew install gibo
 
 brew install mas
 
+# brew install fastlane
+# brew install cocoapods
+
+##
 ## Cask
+##
 
 brew install google-chrome
 
@@ -50,3 +56,5 @@ brew install fork
 brew install tableplus
 
 brew install popclip
+
+brew install slack
